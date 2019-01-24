@@ -1,2 +1,2 @@
 # Data-Science
-Post Graduate Diploma in Data Science - IIIT-B - Assignments
+Python for Data Science Assignment
